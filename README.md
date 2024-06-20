@@ -30,9 +30,4 @@ To get a copy of the project up and running on a local machine, follow these ins
 - Jira account for project management
 
 
-### Notes:
-
-- **Branches**: Adjust the instructions in the `Installation` section to specify how to switch between different branches (`version1`, `version2`, `version3`) depending on the customer needs.
-- **Last Updated**: Replace `"June 2023"` with the actual month and year when you last update the `README.md` file.
-
-By following this structure, your `README.md` file will provide clear and concise information about your Line Following Robot project, its features, how to get started, and how others can contribute. Adjust the content further as per your specific project details and preferences.
+Last Updated: June 30, 2023
