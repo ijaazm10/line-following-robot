@@ -29,8 +29,3 @@ To get a copy of the project up and running on a local machine, follow these ins
 - Python environment with MicroPython support
 - Jira account for project management
 
-
-   ### Notes:
-
-- **Branches**: Adjust the instructions in the `Installation` section to specify how to switch between different branches (`version1`, `version2`, `version3`) depending on the customer needs.
-- **Last Updated**: Replace `"June 2023"` with the actual month and year when you last update the `README.md` file.
